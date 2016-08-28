@@ -1,0 +1,14 @@
+{
+  "name": "rest-apis-nodejs-hapi",
+  "version": "1.0.0",
+  "description": "Rest APIs using Node.js and Hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Rahil Shaikh",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^14.2.0"
+  }
+}
