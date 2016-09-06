@@ -9,6 +9,6 @@
   "author": "Rahil Shaikh",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^14.2.0"
+    "hapi": "14.2.0"
   }
 }

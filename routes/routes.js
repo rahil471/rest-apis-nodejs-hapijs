@@ -1,7 +1,7 @@
 
-var joi = require('joi');
-
 'use strict';
+
+var joi = require('joi');
 module.exports = function() {
 	var store = [
 		{
